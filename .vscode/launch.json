@@ -1,0 +1,49 @@
+{
+      // Use IntelliSense to learn about possible attributes.
+      // Hover to view descriptions of existing attributes.
+      // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+      "version": "0.2.0",
+      "configurations": [
+            {
+                  "type": "java",
+                  "name": "Current File",
+                  "request": "launch",
+                  "mainClass": "${file}"
+            },
+            {
+                  "type": "java",
+                  "name": "Hello",
+                  "request": "launch",
+                  "mainClass": "Hello",
+                  "projectName": "JAVA_5f8d89ae"
+            },
+            {
+                  "type": "java",
+                  "name": "Variable",
+                  "request": "launch",
+                  "mainClass": "Variable",
+                  "projectName": "JAVA_5f8d89ae"
+            },
+            {
+                  "type": "java",
+                  "name": "conditional",
+                  "request": "launch",
+                  "mainClass": "conditional",
+                  "projectName": "JAVA_5f8d89ae"
+            },
+            {
+                  "type": "java",
+                  "name": "demo",
+                  "request": "launch",
+                  "mainClass": "demo",
+                  "projectName": "JAVA_5f8d89ae"
+            },
+            {
+                  "type": "java",
+                  "name": "loops",
+                  "request": "launch",
+                  "mainClass": "loops",
+                  "projectName": "JAVA_5f8d89ae"
+            }
+      ]
+}
