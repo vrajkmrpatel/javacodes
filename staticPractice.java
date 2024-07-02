@@ -25,8 +25,9 @@ class Mobile {
       }
 
       // static method
-      public static void show1() {
+      public static void show1(Mobile obj) {
             System.out.println("In a static method");
+            System.out.println(obj.brand + " : " + obj.name);
       }
 
 }
@@ -55,7 +56,7 @@ public class staticPractice {
             obj1.show();
             obj2.show();
 
-            Mobile.show1();
+            Mobile.show1(obj1);
 
       }
 }
